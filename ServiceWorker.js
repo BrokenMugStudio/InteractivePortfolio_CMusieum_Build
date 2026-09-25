@@ -1,9 +1,9 @@
 const cacheName = "BrokenMugStudio-Career Musuem-0.1.0";
 const contentToCache = [
     "Build/InteractivePortfolio_Musieum_Git.loader.js",
-    "Build/InteractivePortfolio_Musieum_Git.framework.js.br",
-    "Build/InteractivePortfolio_Musieum_Git.data.br",
-    "Build/InteractivePortfolio_Musieum_Git.wasm.br",
+    "Build/InteractivePortfolio_Musieum_Git.framework.js",
+    "Build/InteractivePortfolio_Musieum_Git.data",
+    "Build/InteractivePortfolio_Musieum_Git.wasm",
     "TemplateData/style.css"
 
 ];
